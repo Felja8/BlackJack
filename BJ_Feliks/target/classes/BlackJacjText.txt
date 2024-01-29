@@ -1,0 +1,12 @@
+        Hello! Would u like to play some good old BLackJack? :3 ("y" -> yes | "n" - > no)
+                $$$ ::
+            Continue??    ("y" -> yes | "n" - > no)
+            Bet ->>
+
+
+            Sure? :(      ("y" -> yes | "n" - > no)
+
+            See you next time! Bye.
+            Now you are our sex slave, we are sooooo sorry)))
+
+
